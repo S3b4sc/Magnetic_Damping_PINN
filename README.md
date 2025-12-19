@@ -1,0 +1,1 @@
+# Magnetic_Damping_PINN
